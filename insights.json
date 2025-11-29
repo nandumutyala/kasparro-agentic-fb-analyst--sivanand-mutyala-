@@ -1,0 +1,35 @@
+{
+  "overall_insight": "The account shows strong overall efficiency with an average ROAS around 9\u201310x and stable CTR and conversion rates. Performance is heavily driven by retargeting audiences and high-intent creatives (UGC and Image), while broad prospecting and video formats underperform relative to the rest of the portfolio.",
+  "best_creatives": [
+    {
+      "creative_type": "UGC",
+      "reason": "UGC ads deliver the highest ROAS and one of the strongest CTR values, indicating that authentic, user-style content resonates well with the undergarments audience and efficiently converts clicks into purchases."
+    },
+    {
+      "creative_type": "Image",
+      "reason": "Image creatives combine strong CTR with very competitive ROAS, suggesting that clear product-focused visuals work well for quickly communicating value and driving sales."
+    }
+  ],
+  "worst_creatives": [
+    {
+      "creative_type": "Video",
+      "reason": "Video creatives show lower CTR and the weakest ROAS among all formats, implying that current video executions may be too long, unclear in messaging, or not well aligned with what this audience expects in the feed."
+    }
+  ],
+  "best_audience_segments": [
+    {
+      "audience_type": "Retargeting",
+      "reason": "Retargeting audiences combine strong CTR with a significantly higher conversion rate and the best ROAS, confirming that warm users who have already shown interest are the most profitable segment and should be prioritized for budget allocation."
+    },
+    {
+      "audience_type": "Lookalike",
+      "reason": "Lookalike audiences deliver healthier CTR and ROAS than broad audiences, indicating that seed-based expansion from high-value users is more efficient than generic broad targeting."
+    }
+  ],
+  "key_actionable_insights": [
+    "Shift incremental budget toward UGC and Image creatives, especially within retargeting and lookalike audiences, to maximize ROAS.",
+    "Reduce spend on underperforming video creatives or test new hooks, shorter formats, or clearer product benefit messaging before scaling again.",
+    "Treat retargeting as the profitability engine: ensure all key site events (view content, add to cart, purchase) are properly captured and mapped into retargeting pools.",
+    "Use learnings from top-performing UGC and Image creatives to inform new tests (headlines, angles, visuals) for prospecting campaigns, while gradually trimming low-ROAS broad segments."
+  ]
+}
